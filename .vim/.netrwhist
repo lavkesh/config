@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/lavkesh/work/mine_git/AttributeStore/PIG'
+let g:netrw_dirhist_2='/home/lavkesh/side_projects'
+let g:netrw_dirhist_3='/home/lavkesh/work/fastbit-ibis1.3.5/tests'
+let g:netrw_dirhist_4='/home/lavkesh/work/mine_git/adhoc/cpp/Linux-amd64-64'
+let g:netrw_dirhist_5='/home/lavkesh/side_projects/nodejs/mdas/public'
+let g:netrw_dirhist_6='/home/lavkesh/work/mine_git/AttributeStore/attributestore/target/surefire-reports'
